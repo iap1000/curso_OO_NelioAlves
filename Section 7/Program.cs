@@ -32,7 +32,7 @@ namespace Section_7
                 Console.WriteLine(rep);
             } while (loop == 5);
             Console.WriteLine("Mensagem 1 testes Git");
-
+            Console.WriteLine("Mensagem 2 testes Git");
         }
     }
 }
