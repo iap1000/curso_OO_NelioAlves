@@ -31,6 +31,8 @@ namespace Section_7
                 rep = (loop == 5) ? "Vai repetir!" : "NÃO REPETIRÁ ! Tchau!";
                 Console.WriteLine(rep);
             } while (loop == 5);
+            Console.WriteLine("Mensagem 1 testes Git");
+
         }
     }
 }
