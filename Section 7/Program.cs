@@ -33,6 +33,8 @@ namespace Section_7
             } while (loop == 5);
             Console.WriteLine("Mensagem 1 testes Git");
             Console.WriteLine("Mensagem 2 testes Git");
+            Console.WriteLine("Estudo do pull origin");
+
         }
     }
 }
